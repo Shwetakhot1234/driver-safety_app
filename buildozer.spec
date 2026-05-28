@@ -9,7 +9,7 @@ source.include_exts = py,png,jpg,kv,atlas,tflite,task,onnx,json
 
 version = 1.0
 
-requirements = python3==3.10.11,kivy==2.2.1,kivymd==1.1.1,numpy==1.24.4,pillow,plyer,fpdf2,opencv-python
+requirements = python3==3.10.11,kivy==2.2.1,kivymd==1.1.1,numpy==1.24.4,pillow,plyer,fpdf2,opencv
 
 orientation = portrait
 fullscreen = 0
